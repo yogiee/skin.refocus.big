@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-	<addon id="skin.refocus.big" version="0.88.6" name="reFocus Big" provider-name="Jeroen Modded by Salem">
+	<addon id="skin.refocus.big" version="0.87.2" name="reFocus Big" provider-name="Jeroen/Salem Mod - Further modded by YoGi">
 	<requires>
 		<import addon="xbmc.gui" version="4.0.0"/>
 		<import addon="script.favourites" version="3.2.4"/>
@@ -16,7 +16,7 @@
 		<res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>reFocus by Jeroen modded by Paul Salem</summary>
+		<summary>reFocus by Jeroen modded by Paul Salem, further modded by YoGi</summary>
 		<summary lang="nl">reFocus door Jeroen</summary>
 		<summary lang="es">reFocus, hecho por Jeroen y modificado por Paul Salem</summary>
 		<summary lang="pl">reFocus autorstwa Jeroena</summary>

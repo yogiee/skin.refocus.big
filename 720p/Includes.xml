@@ -425,6 +425,7 @@
 	<include name="chapters">
 		<control type="group">
 			<visible>!Skin.HasSetting(home.timesmall)</visible>
+
 			<control type="label">
 				<posx>28r</posx>
 				<description>Chapters</description>
