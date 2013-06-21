@@ -3,19 +3,19 @@
 	<!---NEW------>	
 		<font>
 			<name>light</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Home</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Menu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>34</size>
 			<style>lowercase</style>
 		</font>
@@ -197,12 +197,12 @@
 <!-- HOME -->
 		<font>
 			<name>homeMenu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 		</font>
 		<font>
 			<name>homeMenuInfo</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 		</font>
 		<font>
@@ -452,17 +452,17 @@
 		</font>
 		<font>
 			<name>osd3</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>osd7</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 		</font>	
 		<font>
 			<name>osdxperience</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>36</size>
 		</font>		
 <!-- DIALOGS -->
@@ -523,226 +523,232 @@
 <fontset id="Original" unicode="true">
 <font>
 			<name>light</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Home</name>
-			<filename>Light.ttf</filename>
-			<size>48</size>
+			<filename>RThin.ttf</filename>
+			<size>36</size>
+			<style>lowercase</style>
+		</font>
+		<font>
+			<name>light.HomeBig</name>
+			<filename>RThin.ttf</filename>
+			<size>72</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Menu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>34</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Window</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Header</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>46</size>
 		</font>
 		<font>
 			<name>light.Category</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.ToastProgress</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>light.Title</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>28</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>light.ColumnHeader</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>28</size>
 			<style>lowercase</style>
 		</font>
 
 		<font>
 			<name>dialog.Title</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>32</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>dialog.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>dialog.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.Caps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.CapsBold</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase bold</style>
 		</font>
 		<font>
 			<name>dialog.Button</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>regular.Info</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>regular.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>regular.BigCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>regular.Small</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>regular.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>18</size>
 			<style>uppercase</style>
 			<aspect>0.92</aspect>
 		</font>
 		<font>
 			<name>regular.Description</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>regular.DescriptionSmall</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>regular.DescriptionHome</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>description.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>description.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>list.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>26</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>list.Small</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>list.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>list.Alt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list.Info</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.Header</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>46</size>
 		</font>
 <!-- HOME -->
 		<font>
 			<name>homeMenu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>46</size>
 		</font>
 		<font>
 			<name>homeMenuInfo</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 		</font>
 		<font>
 			<name>rss</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 <!-- WINDOWS -->
 		<font>
 			<name>windowTitle</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 		</font>
 		<font>
 			<name>windowTitleAlt</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 		</font>
 		<font>
 			<name>windowMenu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>34</size>
 		</font>
 <!-- TOAST -->
@@ -753,17 +759,17 @@
 		</font>
 		<font>
 			<name>clock</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>52</size>
 		</font>
 		<font>
 			<name>date</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size> 
 		</font>
 		<font>
 			<name>finishtime</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size> 
 		</font>
 <!-- CONTAINERS -->
@@ -779,32 +785,32 @@
 		</font>
 		<font>
 			<name>listAlt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>listInfo</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>info</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>info_sub</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>info_toast_top</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>info_toast_bottom</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
@@ -861,38 +867,38 @@
 		</font>
 		<font>
 			<name>titleLow</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>28</size>
 		</font>
 		<font>
 			<name>titleSpecial</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 		</font>
 		<font>
 			<name>titleSpecialFit</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<aspect>0.70</aspect>
 		</font>
 		<font>
 			<name>titleSpecial2</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>30</size>
 		</font>
 		<font>
 			<name>description</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>descriptionSmall</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>descriptionbig</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 <!-- GENERAL -->
@@ -903,12 +909,12 @@
 		</font>
 		<font>
 			<name>normalAlt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>normalCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
@@ -918,12 +924,12 @@
 		</font>	
 		<font>
 			<name>smallAlt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>smallCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
@@ -934,18 +940,18 @@
 		</font>	
 		<font>
 			<name>smallerCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>smallerCapsBIG</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 <!-- SETTINGS -->
 		<font>
 			<name>category</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>30</size>
 		</font>
 <!-- OSD -->
@@ -956,7 +962,7 @@
 		</font>
 		<font>
 			<name>osdHeader</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 		</font>
 		<font>
@@ -971,17 +977,17 @@
 		</font>
 		<font>
 			<name>osd3</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>osd7</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 		</font>		
 		<font>
 			<name>osdxperience</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>36</size>
 		</font>	
 <!-- DIALOGS -->
@@ -1003,7 +1009,7 @@
 	</font>
 		<font>
 			<name>dialog1</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>32</size>
 		</font>
 		<font>
@@ -1013,7 +1019,7 @@
 		</font>
 		<font>
 			<name>keyboard</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 <!-- SCRIPT REFERENCE/LEGACY -->
@@ -1044,194 +1050,194 @@
 	<fontset id="reAlaska" unicode="true">
 <font>
 			<name>light</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Home</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Menu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>34</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Window</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>52</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.Header</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>46</size>
 		</font>
 		<font>
 			<name>light.Category</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>light.ToastProgress</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>light.Title</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>28</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>light.ColumnHeader</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>28</size>
 			<style>lowercase</style>
 		</font>
 
 		<font>
 			<name>dialog.Title</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>32</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>dialog.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>dialog.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.Caps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.CapsBold</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase bold</style>
 		</font>
 		<font>
 			<name>dialog.Button</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>regular.Info</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>regular.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>regular.BigCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>regular.Small</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>regular.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>18</size>
 			<style>uppercase</style>
 			<aspect>0.92</aspect>
 		</font>
 		<font>
 			<name>regular.Description</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>regular.DescriptionSmall</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>regular.DescriptionHome</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>description.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>description.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>list.Regular</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list.Big</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>26</size>
 			<style>lowercase</style>
 		</font>
 		<font>
 			<name>list.Small</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>list.SmallCaps</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>list.Alt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>list.Info</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 			<style>uppercase</style>
 		</font>
 		<font>
 			<name>dialog.Header</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>46</size>
 		</font>
 		
@@ -1243,12 +1249,12 @@
 		</font>
 		<font>
 			<name>homeMenuInfo</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 		</font>
 		<font>
 			<name>rss</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 
@@ -1265,7 +1271,7 @@
 		</font>
 		<font>
 			<name>windowMenu</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>34</size>
 		</font>
 <!---TOAST------>
@@ -1276,17 +1282,17 @@
 		</font>
 <font>
 			<name>clock</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>52</size>
 		</font>
 		<font>
 			<name>date</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size> 
 		</font>
 		<font>
 			<name>finishtime</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size> 
 		</font>
 
@@ -1303,32 +1309,32 @@
 		</font>
 		<font>
            		 <name>listAlt</name>
-           		 <filename>RegularCaps.ttf</filename>
+           		 <filename>LightCaps.ttf</filename>
            		 <size>18</size>
         	</font>
 		<font>
 			<name>listInfo</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>info</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>info_sub</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>info_toast_top</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>info_toast_bottom</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
@@ -1395,7 +1401,7 @@
 		</font>
 		<font>
 			<name>titleSpecialFit</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>42</size>
 			<aspect>0.70</aspect>
 		</font>
@@ -1406,17 +1412,17 @@
         	</font>
 		<font>
 			<name>description</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>descriptionSmall</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>descriptionbig</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>18</size>
 		</font>
 <!---GENERAL------>
@@ -1427,12 +1433,12 @@
 		</font>
 		<font>
 			<name>normalAlt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
 			<name>normalCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>22</size>
 		</font>
 		<font>
@@ -1442,12 +1448,12 @@
 		</font>	
 		<font>
 			<name>smallAlt</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>		
 		<font>
 			<name>smallCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
@@ -1458,18 +1464,18 @@
 		</font>	
 		<font>
 			<name>smallerCaps</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 		<font>
 			<name>smallerCapsBIG</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>18</size>
 		</font>
 <!---SETTINGS------>
 		<font>
 			<name>category</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>30</size>
 		</font>
 <!---OSD------>	
@@ -1485,7 +1491,7 @@
 		</font>	
 		<font>
 			<name>osdHeader</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 		</font>
 						<font>
@@ -1500,12 +1506,12 @@
 		</font>
 		<font>
 			<name>osd3</name>
-			<filename>RegularCaps.ttf</filename>
+			<filename>LightCaps.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
 			<name>osd7</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>48</size>
 		</font>		
 
@@ -1517,7 +1523,7 @@
 		</font>	
 		<font>
 			<name>dialog1</name>
-			<filename>Light.ttf</filename>
+			<filename>RThin.ttf</filename>
 			<size>32</size>
 		</font>
 		<font>
@@ -1527,7 +1533,7 @@
 		</font>
 		<font>
 			<name>keyboard</name>
-			<filename>Regular.ttf</filename>
+			<filename>SLight.ttf</filename>
 			<size>20</size>
 		</font>
 		<font>
